@@ -4,7 +4,7 @@ package hw2;
  * 1 4 9 16 25 36 49 64 81 100
  */
 
-public class no4 {
+public class No4 {
   public static void main(String [] args) {
 	  int i = 1;
 	  while(i <= 10) {

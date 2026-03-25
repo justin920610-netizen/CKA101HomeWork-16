@@ -1,6 +1,6 @@
 package hw2;
 
-public class no8 {
+public class No8 {
 	public static void main(String []args) {
 		int i =1;
 		while(i<=9) 

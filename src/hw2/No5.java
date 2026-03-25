@@ -4,7 +4,7 @@ package hw2;
  * 請設計一隻程式,輸出結果為阿文可以選擇的數字有哪些?總共有幾個?
  */
 //4,14,24,34,40~49
-public class no5 {
+public class No5 {
   public static void main(String [] args) {
 	  int num=0;
 	  System.out.print("阿文可選的數字:");

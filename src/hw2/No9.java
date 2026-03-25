@@ -1,6 +1,6 @@
 package hw2;
 
-public class no9 {
+public class No9 {
   public static void main(String[]args) {
 	  int i =1;
 	  do {

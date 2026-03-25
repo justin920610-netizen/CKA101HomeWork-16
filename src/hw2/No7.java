@@ -8,7 +8,7 @@ DDDD
 EEEEE
 FFFFFF
  */
-public class no7 {
+public class No7 {
   public static void main(String[]args) {
 	  
 	  for(int i = 1 ;i <= 6 ;i++) {
