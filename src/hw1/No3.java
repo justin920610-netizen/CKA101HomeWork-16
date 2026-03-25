@@ -1,6 +1,6 @@
 package hw1;
 
-public class no3 {
+public class No3 {
  public static void main(String[]args) {
 	 // 請由程式算出256559秒為多少天、多少小時、多少分與多少秒
 	 double sec=256559;

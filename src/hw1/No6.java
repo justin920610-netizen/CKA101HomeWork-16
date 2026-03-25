@@ -1,6 +1,6 @@
 package hw1;
 
-public class no6 {
+public class No6 {
   public static void main(String[]args) {
 	  /*
 	   * 請寫一隻程式，利用System.out.println()印出以下三個運算式結果：
