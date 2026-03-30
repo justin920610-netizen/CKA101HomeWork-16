@@ -20,6 +20,6 @@ public class No6 {
 		  }
 	       System.out.println();
 	  }
-	
-  }
+	  
+   }
 }
